@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/amberport/ambermoon-atari/main/docs/screenshots/falcon-spannenberg.png" width="24%" alt="Falcon030: the city of Spannenberg in 3D">
   <img src="https://raw.githubusercontent.com/amberport/ambermoon-atari/main/docs/screenshots/st-spannenberg.png" width="24%" alt="ST/STE: the same place">
-  <img src="https://raw.githubusercontent.com/amberport/ambermoon-atari/main/docs/screenshots/falcon-lyramion.png" width="24%" alt="Falcon030: the Lyramion islands in 2D">
+  <img src="https://raw.githubusercontent.com/amberport/ambermoon-atari/main/docs/screenshots/falcon-lyramion.png" width="24%" alt="Falcon030: the Lyramionic Isles in 2D">
   <img src="https://raw.githubusercontent.com/amberport/ambermoon-atari/main/docs/screenshots/st-lyramion.png" width="24%" alt="ST/STE: the same place">
   <br>
   <sub>Falcon030 and ST/STE at the same places. More in the <a href="https://github.com/amberport/ambermoon-atari/blob/main/SCREENSHOTS.md">screenshots</a>.</sub>
@@ -23,10 +23,10 @@ Source code, documentation and how to build it yourself: [amberport/ambermoon-at
 
    | your game files | package |
    |---|---|
-   | 1.01 German (Thalion's disks) | `ambermoon-atari-0.9-for-1.01-de.zip` |
-   | 1.07 English (Thalion's disks) | `ambermoon-atari-0.9-for-1.07-en.zip` |
-   | 1.21 German (Pyrdacor) | `ambermoon-atari-0.9-for-1.21-de.zip` |
-   | 1.21 English (Pyrdacor) | `ambermoon-atari-0.9-for-1.21-en.zip` |
+   | 1.01 German (Thalion's disks) | `ambermoon-atari-0.9.5-for-1.01-de.zip` |
+   | 1.07 English (Thalion's disks) | `ambermoon-atari-0.9.5-for-1.07-en.zip` |
+   | 1.21 German (Pyrdacor) | `ambermoon-atari-0.9.5-for-1.21-de.zip` |
+   | 1.21 English (Pyrdacor) | `ambermoon-atari-0.9.5-for-1.21-en.zip` |
 
 2. **Install [Python 3](https://www.python.org)** on your PC, if it is not there yet.
 
@@ -77,7 +77,7 @@ The tool takes your saved games and settings from there. Before it replaces anyt
 
 ## Reporting bugs
 
-Open an issue in the [source repository](https://github.com/amberport/ambermoon-atari/issues). Name your machine, TOS, monitor and the first line of `ATARI\AMBFILES\BUILD.TXT`.
+Open an issue in the [source repository](https://github.com/amberport/ambermoon-atari/issues). Name your machine, TOS and monitor, and add `ATARI\AMBFILES\START.TXT`.
 
 ## Whose work this is
 
