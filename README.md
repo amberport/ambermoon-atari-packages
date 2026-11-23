@@ -23,10 +23,10 @@ Source code, documentation and how to build it yourself: [amberport/ambermoon-at
 
    | your game files | package |
    |---|---|
-   | 1.01 German (Thalion's disks) | `ambermoon-atari-0.9.5-for-1.01-de.zip` |
-   | 1.07 English (Thalion's disks) | `ambermoon-atari-0.9.5-for-1.07-en.zip` |
-   | 1.21 German (Pyrdacor) | `ambermoon-atari-0.9.5-for-1.21-de.zip` |
-   | 1.21 English (Pyrdacor) | `ambermoon-atari-0.9.5-for-1.21-en.zip` |
+   | 1.01 German (Thalion's disks) | `ambermoon-atari-0.9.5.1-for-1.01-de.zip` |
+   | 1.07 English (Thalion's disks) | `ambermoon-atari-0.9.5.1-for-1.07-en.zip` |
+   | 1.21 German (Pyrdacor) | `ambermoon-atari-0.9.5.1-for-1.21-de.zip` |
+   | 1.21 English (Pyrdacor) | `ambermoon-atari-0.9.5.1-for-1.21-en.zip` |
 
 2. **Install [Python 3](https://www.python.org)** on your PC, if it is not there yet.
 
